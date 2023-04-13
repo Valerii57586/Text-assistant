@@ -8,3 +8,4 @@ if command == 'Давай поиграем':
     game = int(input('Выбери игру напишите её порядковый номер: '))
 if game == 1:
     games.guess_number()
+# CKJF
